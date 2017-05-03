@@ -5,7 +5,7 @@ minimal browser-based central event bus
  - include this into script tag
  
  ```javascript
- //fire and event
+ //fire an event
    simpleBroadcast('something-happen',{
      data:"sample text I want to deliver"
    });
